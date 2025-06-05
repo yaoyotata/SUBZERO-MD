@@ -61,7 +61,7 @@ module.exports = {
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true", // React to status updates?
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true", // VIEW to status updates?
     AUTO_BIO: process.env.AUTO_BIO || "false",
-    WELCOME_GOODBYE: process.env.WELCOME_GOODBYE || "true",
+    WELCOME_GOODBYE: process.env.WELCOME_GOODBYE || "false",
     AMDIN_EVENTS: process.env.ADMIN_EVENTS || "true",
 };
 
